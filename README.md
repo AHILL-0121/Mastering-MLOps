@@ -1,6 +1,6 @@
 # 🛒 UK Retail Purchase Predictor — MLOps Level 0–2
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mastering-mlops-sa.streamlit.app/)
 
 Predicts whether a UK customer will make a purchase **next month**, based on historical transaction data from the [Online Retail II UCI dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci).
 
