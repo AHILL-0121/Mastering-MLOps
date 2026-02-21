@@ -1,0 +1,12 @@
+Drift Monitoring Report
+Timestamp: 2026-02-21 22:56:16
+
+    Feature  Original Mean  Drifted Mean  Mean Δ%
+   Quantity       362.4703      434.9643    20.00
+  UnitPrice         4.2061        3.3649    20.00
+ TotalPrice       586.0421      980.2068    67.26
+InvoiceHour        12.6159       12.6159     0.00
+ InvoiceDay        15.1107       15.1107     0.00
+
+Prediction Change: 11.41%
+DRIFT DETECTED
